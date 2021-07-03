@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 0px px;
+    padding: 0px;
+}
+h1{
+    font-size: 46px;
+}
+
+section{
+    display: flex;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: justify;
+}
+h4{
+    font-size: 32px;
+}
+.my-name{
+    color: orange;
+}
+.about-self{
+    width: 50%;
+}
+.about-self img{
+    width: 70%;
+    float: right;
+    margin: 20px 20px 0px 0px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(tomato orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.background{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0px;
+
+}
+
